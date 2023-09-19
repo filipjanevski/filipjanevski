@@ -12,14 +12,14 @@ Find me on:
   <img src="https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
 
+<a href="https://janevski.dev">
+  <img src="https://img.shields.io/badge/Blog-f7df1e?logo=javascript&logoColor=black&style=for-the-badge" />
+</a>
+
 <a href="https://dev.to/0x96f">
   <img src="https://img.shields.io/badge/Dev.To-353535?logo=dev.to&logoColor=white&style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/filip-janevski/">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
-
-<a href="https://janevski.dev">
-  <img src="https://img.shields.io/badge/Blog-f7df1e?logo=javascript&logoColor=black&style=for-the-badge" />
 </a>
