@@ -2,9 +2,9 @@
 
 I am just a guy who likes tech, programming, hiking, cycling and many other things. I have been developing web and mobile apps since 2018.
 
-* 🌍  I'm based in Skopje, Macedonia
-* 🖥️  See my blog @ [janevski.dev](https://janevski.dev)
-* ✉️   You can contact me @ [filip@janevski.dev](mailto:filip@janevski.dev)
+*  🇲🇰  I'm based in Skopje, Macedonia
+*  💻  See my blog @ [janevski.dev](https://janevski.dev)
+*  💬  You can contact me @ [filip@janevski.dev](mailto:filip@janevski.dev)
 
 🔗  Other links:
 
